@@ -1,0 +1,9 @@
+* {
+    margin: 5px 0px 0px 10px;
+    padding: 10;
+    box-sizing: border-box;
+}
+
+input {
+    border: 2px solid black;
+}
